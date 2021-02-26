@@ -1,6 +1,6 @@
 Baseurl = "/"
 theme = "hugo-geo"
-relativeURLs = false
+relativeURLs = true
 languageCode = "en-us"
 title = "My New Hugo Site"
 disqusShortname = "shortcode-here"

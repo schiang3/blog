@@ -1,5 +1,4 @@
 +++
-description = "This is my first post"
 date= "2021-02-21T18:30:57-06:00"
 draft = false
 hightlight =true
@@ -7,6 +6,7 @@ scripts =[]
 tags =[]
 
 title = "Hello with Hugo"
+description ="This is my first post"
 +++
 
 I learned to build this website using Hugo. 

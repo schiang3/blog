@@ -6,7 +6,7 @@ draft: false
 
 Hi I'm Shuya.
 
-Data science professional with robust experience in machine learning and creating statistical models in Python, R, and SAS. My background in data mining and cloud computingmakes me passionate about utilizing algorithms to predict future trends and storytelling the results with data visualization.
+Data science professional with robust experience in machine learning and creating statistical models in Python, R, and SAS. My background in data mining and cloud computing makes me passionate about utilizing algorithms to predict future trends and storytelling the results with data visualization.
 
 
 # **Education**
