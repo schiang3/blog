@@ -1,6 +1,6 @@
 
 +++
-title ="IBM HR Analytics Employee Arrition project"
+title ="IBM HR Analytics Employee Arrition project (Python)"
 date = "2021-02-21T18:52:06-06:00"
 draft = false
 +++

@@ -1,4 +1,4 @@
-Baseurl = "/"
+Baseurl = "https://schiang3.github.io/"
 theme = "hugo-geo"
 relativeURLs = true
 languageCode = "en-us"

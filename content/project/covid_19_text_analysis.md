@@ -1,5 +1,5 @@
 +++
-title ="Covid-19 Related Scientific Papers Text Analysis"
+title ="Covid-19 Related Scientific Papers Text Analysis (Python)"
 date = "2021-02-21T18:52:06-06:00"
 draft = false
 +++
